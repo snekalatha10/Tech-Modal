@@ -1,0 +1,15 @@
+.main-content {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    padding: 20px;
+}
+
+.main-content .diagnosis-history {
+    flex: 2;
+    margin-right: 20px;
+}
+
+.main-content .patient-details {
+    flex: 1;
+}

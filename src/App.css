@@ -1,0 +1,26 @@
+.app {
+  font-family: Arial, sans-serif;
+  background-color: #F6F7F8;
+  height: 100% !important;
+}
+
+.container {
+  display: flex;
+  height: calc(100vh - 60px);
+}
+
+.main-content {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  padding: 20px;
+}
+
+.main-content .diagnosis-history {
+  flex: 2;
+  margin-right: 20px;
+}
+
+.main-content .patient-details {
+  flex: 1;
+}

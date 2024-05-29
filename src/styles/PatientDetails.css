@@ -1,0 +1,62 @@
+.patient-details {
+    padding: 20px;
+    background: #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 100%;
+}
+
+.profile{
+    text-align: center !important;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.image{
+    margin-top: 30px;
+    text-align: center;
+}
+.patient-details img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.patient-details h2 {
+    margin: 10px 0;
+}
+
+.patient-details ul {
+    list-style: none;
+    padding: 0;
+}
+
+.patient-details ul li {
+    margin-bottom: 10px;
+}
+
+.patient-details ul li span {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.icon{
+    background-color: #efecec;
+    height: 50px;
+    width: 50px;
+    border-radius: 60px;
+    justify-content: center;
+    align-items: center; 
+}
+
+.data{
+    margin-left: 55px;
+    margin-top: -10px;
+}
+
+.btn{
+    font-weight: bold;
+    background-color: #01F0D0;
+    border-radius: 20px;
+}
